@@ -1,0 +1,14 @@
+1. Identifiers contains 
+   a to z
+   A to z
+   0 to 9
+   _ and $
+
+2. Identifier should not start with 0-9.
+3. Should not contain any special characters.
+4. Should not use keyword identifier.
+5. Identifiers are case sensitive.
+
+
+shortcut key for make multiple line comments
+shift + alt + A
