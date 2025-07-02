@@ -1,0 +1,6 @@
+Array: 
+- Group of elements/values as one entity
+- use []
+- Allows duplicate and hetrogeneous elements
+- Array elements are storing based on indexing (0 to n-1)
+- Negative indexing is not possible in javaScript
