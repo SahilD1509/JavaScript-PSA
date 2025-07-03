@@ -1,0 +1,19 @@
+DATATYPES
+var, let, const 
+true, false
+undefined, null
+
+CONTROL FLOW
+if, else, switch, case, break, default, for, while, do, of, continue
+
+FUNCTIONS
+function, returm
+
+OOPS
+class, new, this, super, extends
+
+ERROR HANDLING
+try, catch, throw, finnaly,throws
+
+ES-6
+import, export, async, await

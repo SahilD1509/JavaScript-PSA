@@ -1,0 +1,4 @@
+JS OBJECTS:
+- group of key and value pairs as one entity
+- {}
+- duplicate keys are not allowed

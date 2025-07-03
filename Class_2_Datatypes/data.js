@@ -3,5 +3,5 @@ var ename = "Rahul";
 console.log(eid);
 console.log(ename);
 
-/*document.writeln(eid);
-document.writeln(ename);*/
+document.writeln(eid);
+document.writeln(ename);

@@ -10,4 +10,4 @@ console.log(eids[2])
 console.log(eids[3])
 console.log(eids[4])
 console.log(eids[5]) //undefined
-console.log(eids[-2]) //undefined because negative indexing is not possible
+console.log(eids[-2]) //undefined because negative indexing is not possible in JavaScript

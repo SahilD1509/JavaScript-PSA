@@ -1,0 +1,8 @@
+OBJECT in JavaScript
+- group of key value pairs as one entity.
+- group of data and functionality as one entity.
+- duplicate keys are not allowed but values are allowed.
+- indexing concept is not applicable.
+- JS object is not iteravle object.
+- order not applicable.
+

@@ -4,3 +4,5 @@ Array:
 - Allows duplicate and hetrogeneous elements
 - Array elements are storing based on indexing (0 to n-1)
 - Negative indexing is not possible in javaScript
+- Array is a iterable object using for,while,do-while adn for_of loops 
+- in javascript group of key-value pairs called objects
