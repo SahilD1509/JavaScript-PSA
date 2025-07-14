@@ -1,0 +1,4 @@
+fat arrow function ca be denoted as
+() => {
+    clg(addition)
+}
