@@ -2,3 +2,5 @@ fat arrow function ca be denoted as
 () => {
     clg(addition)
 }
+FAT ARROW FUNCTION:
+Alternative way to write a function
