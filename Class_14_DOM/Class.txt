@@ -1,0 +1,2 @@
+- class is a datatype / template / plan  / design to construct objects
+- class contains properties and methods 
