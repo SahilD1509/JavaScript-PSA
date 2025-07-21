@@ -7,3 +7,6 @@ class test {
         new test();
     }
 }
+
+//To run java program
+//command is javac program_name
