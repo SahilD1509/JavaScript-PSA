@@ -12,7 +12,7 @@ class Account{
         console.log("Server Busy")
     }
     close_Acc(){
-        console.log("Bal is -ve: Pease Deposite Amount")
+        console.log("Bal is -ve: Please Deposite Amount")
     }
 }
 let a1 = new Account()
