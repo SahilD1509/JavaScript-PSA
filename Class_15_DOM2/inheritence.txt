@@ -1,0 +1,3 @@
+Inheritence
+- inheriting properties from one class to another class
+- reusing existing class functionalities and extends/adding new features
