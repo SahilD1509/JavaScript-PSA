@@ -1,0 +1,5 @@
+spread operator(...)
+used for extract or copy data
+- create new array/objects
+- merge array/objects
+- extending arrayys elements/object properties
